@@ -1,0 +1,17 @@
+body, html {
+  height: 100%;
+  font-family: "Inconsolata", sans-serif;
+}
+
+.bgimg {
+  background-position: center;
+  background-size: cover;
+     background-color: #b5cedd;
+    background-image: url("res/10%25%20Blur.png");
+  min-height: 75%;
+}
+    
+
+.menu {
+  display: none;
+}
